@@ -54,3 +54,6 @@ For administrator, the following functions are provided:
 
 - Round 2
 --> The second round of bidding is for students to bid for courses offered by their school and courses offered by other schools.
+
+Web Service Requirments:
+BIOS provides an API using the JSON format. All API responses are an JSON object, and include a 'status' value.
